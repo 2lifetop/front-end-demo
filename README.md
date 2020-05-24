@@ -15,4 +15,4 @@
 
 
 ### 特别鸣谢
-GIF制作工具：〔ScreenToGif〕(https://github.com/NickeManarin/ScreenToGif/)
+GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
