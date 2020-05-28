@@ -18,5 +18,8 @@
 4、七彩波纹按钮
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo004/demo004.gif)
 
+5、圆形波浪进度
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo005/demo005.gif)
+
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
