@@ -21,5 +21,8 @@
 5、圆形波浪进度
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo005/demo005.gif)
 
+6、快视弹窗
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo006/demo006.gif)
+
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
