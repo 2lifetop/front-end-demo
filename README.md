@@ -27,5 +27,7 @@
 7、圆形进度栏
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo007/demo007.gif)
 
+8、简介大气昼夜切换
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo008/demo008.gif)
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
