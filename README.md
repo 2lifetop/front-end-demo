@@ -29,5 +29,9 @@
 
 8、简介大气昼夜切换
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo008/demo008.gif)
+
+9、悬停展示卡
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo009/demo009.gif)
+
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
