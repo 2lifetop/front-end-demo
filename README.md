@@ -33,5 +33,8 @@
 9、悬停展示卡
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo009/demo009.gif)
 
+10、手风琴菜单
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo010/demo010.gif)
+
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
