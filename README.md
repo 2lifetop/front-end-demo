@@ -39,5 +39,11 @@
 11、移动边框按钮
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo011/demo011.gif)
 
+12、动态背景跟随标题
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo012/demo012.gif)
+
+13、多彩时钟
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo013/demo013.gif)
+
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
