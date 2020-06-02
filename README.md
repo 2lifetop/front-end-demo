@@ -36,5 +36,8 @@
 10、手风琴菜单
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo010/demo010.gif)
 
+11、移动边框按钮
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo011/demo011.gif)
+
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
