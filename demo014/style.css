@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #060c21;
+    font-family: sans-serif;
+}
+.container{
+    position: relative;
+    width: 90%;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: repeat(auto-fill,minmax(260px,1fr));
+    grid-gap: 0 40px;
+}
+.container .box{
+    position: relative;
+    height: 400px;
+    background-color: #060c21;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000000;
+}
+.container .box::after{
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+.container .box::before{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: #ffffff;
+    transform: skew(2deg,2deg);
+    z-index: -1;
+}
+.container .box:nth-child(2n+1)::before{
+    background: linear-gradient(315deg,#f1c40f,#e64a19);
+}
+.container .box:nth-child(2n+2)::before{
+    background: linear-gradient(315deg,#16a085,#3498db);
+}
+.content{
+    position: relative;
+    margin: 20px;
+}
+.box .content h2{
+    position: absolute;
+    right: 20px;
+    margin: 0;
+    padding: 0;
+    font-size: 10em;
+    color: rgba(255, 255, 255, 0.1);
+    transition: 0.5s;
+    user-select: none;
+}
+.box:hover .content h2{
+    top: -140px;
+}
+.box .content h3{
+    margin: 0 0 10px;
+    padding: 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: #ffffff;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+.box:hover .content h3{
+    opacity: 1;
+    font-size: 30px;
+}
+.box .content p{
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-size: 16px;
+    transition: 0.5s;
+    opacity: 0.5;
+}
+.box:hover .content p{
+    opacity: 1;
+}
+.box .content a{
+    display: inline-block;
+    position: relative;
+    margin: 20 0 0;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    transition: 0.5s;
+    transform: translateY(-40px);
+    opacity: 0;
+    visibility: hidden;
+    font-size: 16px;
+    user-select: none;
+}
+.box:hover .content a{
+    transform: translateY(0px);
+    opacity: 1;
+    visibility: visible;
+}
+.content a:hover{
+    background: #ffffff;
+    color: #000000;
+}
