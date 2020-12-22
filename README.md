@@ -1,5 +1,5 @@
 # front-end-demo
-个人练习使用，代码暂时以模仿为主。
+个人练习使用，代码以模仿为主。
 
 ### demo介绍及预览
 
@@ -45,5 +45,7 @@
 13、多彩时钟
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo013/demo013.gif)
 
+14、创意边框悬停效果
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo013/demo014.gif)
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
