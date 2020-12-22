@@ -46,6 +46,6 @@
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo013/demo013.gif)
 
 14、创意边框悬停效果
-![](https://github.com/2lifetop/front-end-demo/blob/master/demo013/demo014.gif)
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo014/demo014.gif)
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
