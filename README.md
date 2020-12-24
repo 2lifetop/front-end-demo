@@ -50,5 +50,8 @@
 
 15、文字火焰动画效果
 ![](https://github.com/2lifetop/front-end-demo/blob/master/demo015/demo015.gif)
+
+16、六边形介绍展示效果
+![](https://github.com/2lifetop/front-end-demo/blob/master/demo016/demo016.gif)
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)
