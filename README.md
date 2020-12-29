@@ -53,5 +53,8 @@
 
 16、六边形介绍展示效果
 ![](https://cdn.jsdelivr.net/gh/2lifetop/front-end-demo@0.02/demo016/demo016.gif)
+
+17、矩形阴影效果
+![](https://cdn.jsdelivr.net/gh/2lifetop/front-end-demo@0.02/demo017/demo017.gif)
 ### 特别鸣谢
 GIF制作工具：[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/)

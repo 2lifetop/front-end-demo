@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>矩形阴影效果</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box"></div>
+    <script>
+        let box=document.querySelector('.box');
+        let shadow='';
+        for (let i =0;i<500;i++){
+                shadow += (shadow?',':'')+i*1+'px '+i*1+"px 0 #e8305b";
+            }
+        box.style.boxShadow = shadow;
+    </script>
+</body>
+</html>
